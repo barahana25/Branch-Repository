@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+# Branch1에서 수정했음.
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]
