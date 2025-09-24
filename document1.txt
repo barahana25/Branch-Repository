@@ -1,4 +1,4 @@
-Hello My NAme is Main Branch
+Hello My name is Main and Branch2
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
